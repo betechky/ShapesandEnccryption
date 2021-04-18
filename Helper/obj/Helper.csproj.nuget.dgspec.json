@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\ShapesAndEncryption\\ShapesAndEncryption.csproj": {}
+    "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\Helper\\Helper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\ShapesAndEncryption\\ShapesAndEncryption.csproj": {
+    "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\Helper\\Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\ShapesAndEncryption\\ShapesAndEncryption.csproj",
-        "projectName": "ShapesAndEncryption",
-        "projectPath": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\ShapesAndEncryption\\ShapesAndEncryption.csproj",
+        "projectUniqueName": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\Helper\\Helper.csproj",
+        "projectName": "Helper",
+        "projectPath": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\Helper\\Helper.csproj",
         "packagesPath": "C:\\Users\\Creative\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\ShapesAndEncryption\\obj\\",
+        "outputPath": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\Helper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

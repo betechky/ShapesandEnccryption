@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Name>Bob Smith</Name>
+    <CreditCard>bbSG4ge453WfmwoLEao3/AJ7mwUhT0IEEjEqOWsRHd4=</CreditCard>
+    <Password>yOOpQhVE6zPSFSMAIbtCPA9HpRoVXodl2381ZhUtZaI=</Password>
+  </Customer>
+  <Customer>
+    <Name>Lucy Johnson</Name>
+    <CreditCard>EJKjF90MWbORi2KZDjdZvwStY8nLVquECFN+uceN71s=</CreditCard>
+    <Password>ZamYuDNkxe6P6ZwEXCaRiUPtFExab/nPfPftGvyAP7s=</Password>
+  </Customer>
+</ArrayOfCustomer>

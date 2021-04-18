@@ -7,36 +7,45 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 
+
 namespace Jason_Xml
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n================= Shapes =========================\n");
 
-            List<Shape> list = new List<Shape>
-            {
-                new Circle { Color = "Red", Radius = 2.5 },
-                new Rectangle { Color = "Blue", Height = 20.0, Width = 10.0 },
-                new Circle { Color = "Green", Radius = 8 },
-                new Circle { Color = "Purple", Radius = 12.3 },
-                new Rectangle { Color = "Blue", Height = 45.0, Width = 18.0 }
-               
-            };
+            string key = Cripto.Cripto.GenerateSecretString();
             
-            string xmlShapesPath = "shapes.xml";
-            ToXml(list, xmlShapesPath);
-            //ToXml(list, "shapes.xml); Created xml file 
 
-            List <Shape> loadedShapesXml = FromXml<List<Shape>>(xmlShapesPath);
-
-            foreach (var item in loadedShapesXml)
+            List<Customer> customers = new List<Customer>
             {
-                Console.WriteLine($"{item.Name} is {item.Color} has an area of {item.Area}");
+                new Customer { Name = "Bob Smith", CreditCard = "1234-5678-9012-3456", Password = "Pa$$w0rd" },
+                new Customer { Name = "Lucy Johnson", CreditCard = "5252-5678-7845-3456", Password = "123456" },
+            };
+
+            foreach (var item in customers)
+            {
+                item.CreditCard =
+                    Cripto.Cripto.EncryptString(key, item.CreditCard);
+                item.Password =
+                    Cripto.Cripto.SaltAndHash(item.Password);
             }
 
+            ToXml(customers, "customers.xml");
+
+            var customersFromXml = FromXml<List<Customer>>("customers.xml");
+            Console.WriteLine("\n================= Password Encryption =========================\n");
+     
+            foreach (var item in customersFromXml)
+            {
+                var ccn = Cripto.Cripto.DecryptString(key, item.CreditCard);
+                Console.WriteLine($"{item.Name} { ccn } {item.Password}");
+            }
+
+            Console.WriteLine("\n================= Password Encrytion =========================\n");
         }
+
         public static void ToXml<T>(T obj, string path)
         {
             using (StringWriter sw = new StringWriter(new StringBuilder()))

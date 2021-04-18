@@ -1,0 +1,9 @@
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\obj\Debug\netcoreapp3.1\Helper.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
