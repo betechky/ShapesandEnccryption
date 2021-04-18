@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXUhXdz8AcJ4eIVqn/yRJ/JhN5FbDGvQnbuGjM6/Oa9CAdAEwO2BHfTLDfYaPS7le78XP26NgMy4d9xo1yEO2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Creative\\source\\repos\\ShapesAndEncryption\\Jason_Xml\\Jason_Xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Creative\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

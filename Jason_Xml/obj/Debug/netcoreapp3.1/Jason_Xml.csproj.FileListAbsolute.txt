@@ -1,0 +1,16 @@
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Jason_Xml.exe
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Jason_Xml.deps.json
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Jason_Xml.runtimeconfig.json
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Jason_Xml.runtimeconfig.dev.json
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Jason_Xml.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Jason_Xml.pdb
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.AssemblyInfoInputs.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.AssemblyInfo.cs
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.pdb
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.genruntimeconfig.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\data.json
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.csproj.CopyComplete

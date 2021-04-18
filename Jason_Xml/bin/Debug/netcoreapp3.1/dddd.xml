@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Top xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <menu>
+    <header>SVG Viewer</header>
+    <items>
+      <Item>
+        <id>Open</id>
+      </Item>
+      <Item>
+        <id>OpenNew</id>
+        <label>Open New</label>
+      </Item>
+      <Item xsi:nil="true" />
+      <Item>
+        <id>ZoomIn</id>
+        <label>Zoom In</label>
+      </Item>
+      <Item>
+        <id>ZoomOut</id>
+        <label>Zoom Out</label>
+      </Item>
+      <Item>
+        <id>OriginalView</id>
+        <label>Original View</label>
+      </Item>
+      <Item xsi:nil="true" />
+      <Item>
+        <id>Quality</id>
+      </Item>
+      <Item>
+        <id>Pause</id>
+      </Item>
+      <Item>
+        <id>Mute</id>
+      </Item>
+      <Item xsi:nil="true" />
+      <Item>
+        <id>Find</id>
+        <label>Find...</label>
+      </Item>
+      <Item>
+        <id>FindAgain</id>
+        <label>Find Again</label>
+      </Item>
+      <Item>
+        <id>Copy</id>
+      </Item>
+      <Item>
+        <id>CopyAgain</id>
+        <label>Copy Again</label>
+      </Item>
+      <Item>
+        <id>CopySVG</id>
+        <label>Copy SVG</label>
+      </Item>
+      <Item>
+        <id>ViewSVG</id>
+        <label>View SVG</label>
+      </Item>
+      <Item>
+        <id>ViewSource</id>
+        <label>View Source</label>
+      </Item>
+      <Item>
+        <id>SaveAs</id>
+        <label>Save As</label>
+      </Item>
+      <Item xsi:nil="true" />
+      <Item>
+        <id>Help</id>
+      </Item>
+      <Item>
+        <id>About</id>
+        <label>About Adobe CVG Viewer...</label>
+      </Item>
+    </items>
+  </menu>
+</Top>
