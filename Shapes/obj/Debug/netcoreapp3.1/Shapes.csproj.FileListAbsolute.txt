@@ -1,0 +1,9 @@
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb

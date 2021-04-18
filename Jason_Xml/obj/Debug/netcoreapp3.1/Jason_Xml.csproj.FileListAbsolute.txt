@@ -14,3 +14,5 @@ C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreap
 C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\data.json
 C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\obj\Debug\netcoreapp3.1\Jason_Xml.csproj.CopyComplete
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Creative\source\repos\ShapesAndEncryption\Jason_Xml\bin\Debug\netcoreapp3.1\Shapes.pdb
